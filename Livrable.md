@@ -1,4 +1,4 @@
-# Ensemble des livrables(docs)
+# Livrable DevSecOps📚
 
 1. [Accès à la vm](./livrables/1-access-vm.md)
 2. [Scan avec trivy](./livrables/2-trivy.md)
@@ -7,7 +7,7 @@
 5. [Final Projet: Pipeline DevSecOps](./livrables/5-pipeline-devsecops.md)
 
 
-Made with love by
+Made with love by :
 
 * BKWEDOU-NGAMENI Bechir Delibes
 * IDOURAYAME Jeremyl
